@@ -1,0 +1,2 @@
+Codice back-end: https://github.com/book-club-unisa/be-api
+Codice front-end: https://github.com/book-club-unisa/fe-app
